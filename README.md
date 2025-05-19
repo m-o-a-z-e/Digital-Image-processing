@@ -140,4 +140,4 @@ See the LICENSE file for more information.
 
 ## Contact
 
-For questions or suggestions, please contact: Moaz hany at [moazhany145@gmail.com]
+For questions or suggestions, please contact: Moaz hany at [moaz.h.sabry@gmail.com]
